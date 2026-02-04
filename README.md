@@ -8,6 +8,11 @@ Este repositório contém scripts simples para praticar os fundamentos da lingua
 * **`ex2.py`**: Processa um vetor de 10 elementos, aplicando regras condicionais (multiplica pares por 5 e soma 3 aos ímpares).
 * **`ex3.py`**: Cria um vetor de 20 elementos a partir de 10 entradas, gerando um efeito de "espelhamento" da lista original.
 
+* ### 🎮 Teoria dos Jogos (Avançado)
+* **`teoria_dos_jogos.py`**: Script para resolução de jogos de soma zero.
+    * **Ponto de Sela**: Identifica se existe um equilíbrio estável em estratégias puras.
+    * **Estratégias Mistas**: Para matrizes $2 \times 2$ sem ponto de sela, o script calcula as probabilidades ótimas para cada jogador e o valor final do jogo.
+
 ## 🛠️ Como executar
 
 Certifique-se de ter o Python instalado e execute no terminal:
