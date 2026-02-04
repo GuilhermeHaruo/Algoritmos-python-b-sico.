@@ -12,6 +12,12 @@ Este repositório contém scripts simples para praticar os fundamentos da lingua
 * **`teoria_dos_jogos.py`**: Script para resolução de jogos de soma zero.
     * **Ponto de Sela**: Identifica se existe um equilíbrio estável em estratégias puras.
     * **Estratégias Mistas**: Para matrizes $2 \times 2$ sem ponto de sela, o script calcula as probabilidades ótimas para cada jogador e o valor final do jogo.
+ 
+### 🧮 Cálculo Numérico
+* **`atvdcnu.py`**: Implementação de métodos iterativos para resolução de sistemas lineares $Ax = b$.
+    * **Método de Jacobi**: Calcula a solução aproximada iterando sobre o vetor anterior.
+    * **Método de Gauss-Seidel**: Versão otimizada que utiliza valores já atualizados na iteração corrente para acelerar a convergência.
+    * Permite configurar a ordem da matriz, tolerância de erro ($\epsilon$) e limite de iterações.
 
 ## 🛠️ Como executar
 
