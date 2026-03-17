@@ -1,0 +1,20 @@
+# 🧮 Exercício de Álgebra Linear com Python
+
+Este projeto faz parte dos meus estudos de algoritmos básicos, focando na aplicação de conceitos matemáticos fundamentais utilizando a linguagem Python.
+
+## 🚀 O que este script faz?
+O exercício aborda a manipulação de estruturas de dados para resolver problemas de Álgebra Linear, tais como:
+* Operações com Vetores e Matrizes.
+* Cálculo de produtos escalares ou determinantes (se aplicável).
+* Lógica de programação aplicada à matemática computacional.
+
+## 🛠️ Tecnologias Utilizadas
+* **Python 3.x**
+* Bibliotecas nativas (ou especifique se usou NumPy/Pandas).
+
+## 📝 Como executar
+1. Certifique-se de ter o Python instalado.
+2. Clone o repositório ou baixe o arquivo `.py`.
+3. Execute o comando:
+   ```bash
+   python nome_do_arquivo.py
